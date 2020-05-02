@@ -4,6 +4,8 @@ A collection of unofficial api libraries. Designed to inspire your next Friday n
 Interested in adding your own API library, submit a pull request
 
 ## Index
+[Entertainment](#entertainment)
+
 [Finance](#finance)
 
 [Messaging](#messaging)
@@ -11,6 +13,11 @@ Interested in adding your own API library, submit a pull request
 [Productivity](#productivity)
 
 [Schools](#schools)
+
+### Entertainment
+*API* | *Description* | *Language* | *Status*
+--- | --- | --- | ---
+[MMA](https://github.com/valish/mma-api) | Mixed Martial Arts/UFC api | Javscript | Partial
 
 ### Finance
 
