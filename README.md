@@ -5,8 +5,11 @@ Interested in adding your own API library, submit a pull request
 
 ## Index
 [Finance](#finance)
+
 [Messaging](#messaging)
+
 [Productivity](#productivity)
+
 [Schools](#schools)
 
 ### Finance
