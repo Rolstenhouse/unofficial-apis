@@ -17,7 +17,8 @@ Interested in adding your own API library, submit a pull request
 ### Entertainment
 *API* | *Description* | *Language* | *Status*
 --- | --- | --- | ---
-[MMA](https://github.com/valish/mma-api) | Mixed Martial Arts/UFC api | Javscript | Partial
+[MMA](https://github.com/valish/mma-api) | Mixed Martial Arts/UFC api | Javascript | Partial
+[PokeApi](https://github.com/PokeAPI/pokeapi) | Pokemon API | Hosted | Full
 
 ### Finance
 
