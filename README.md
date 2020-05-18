@@ -41,11 +41,11 @@ https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/ahmdr
 [Instagram](https://github.com/ahmdrz/goinsta) | Instagram API | Go | [![badge](https://img.shields.io/github/stars/ahmdrz/goinsta.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ahmdrz/goinsta/stargazers) | [![badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/ahmdrz/goinsta/commits&label=Last%20Commit&query=$[0].commit.committer.date&color=important)](https://github.com/ahmdrz/goinsta)
 [MMA](https://github.com/valish/mma-api) | Mixed Martial Arts/UFC api | Javascript | [![badge](https://img.shields.io/github/stars/valish/mma-api.svg?style=social&label=Star&maxAge=2592000)](https://github.com/valish/mma-api/stargazers) | [![badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/valish/mma-api/commits&label=Last%20Commit&query=$[0].commit.committer.date&color=important)](https://github.com/valish/mma-api)
 [Nintendo Switch](https://github.com/ZekeSnider/NintendoSwitchRESTAPI) | REST API for nintendo switch | Documentation | Partial 
-[PokeApi](https://github.com/PokeAPI/pokeapi) | Pokemon API | Hosted | Full
-[Pokemon Go](https://github.com/pogodevorg/pgoapi) | Pokemon Go API | python | Dead
-[Tik-Tok](https://github.com/szdc/tiktok-api) | Tik-tok API | Javascript | Active
-[Tinder](https://github.com/fbessez/Tinder) | Tinder API | Python | Full
-[Tinder](https://github.com/alkawryk/tinderjs) | Tinder API | Javascript | Full
+[PokeApi](https://github.com/PokeAPI/pokeapi) | Pokemon API | Hosted | [![badge](https://img.shields.io/github/stars/ZekeSnider/NintendoSwitchRESTAPI.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ZekeSnider/NintendoSwitchRESTAPI/stargazers) | [![badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/ZekeSnider/NintendoSwitchRESTAPI/commits&label=Last%20Commit&query=$[0].commit.committer.date&color=important)](https://github.com/ZekeSnider/NintendoSwitchRESTAPI)
+[Pokemon Go](https://github.com/pogodevorg/pgoapi) | Pokemon Go API | python | [![badge](https://img.shields.io/github/stars/pogodevorg/pgoapi.svg?style=social&label=Star&maxAge=2592000)](https://github.com/pogodevorg/pgoapi/stargazers) | [![badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/pogodevorg/pgoapi/commits&label=Last%20Commit&query=$[0].commit.committer.date&color=important)](https://github.com/pogodevorg/pgoapi)
+[Tik-Tok](https://github.com/szdc/tiktok-api) | Tik-tok API | Javascript | [![badge](https://img.shields.io/github/stars/szdc/tiktok-api.svg?style=social&label=Star&maxAge=2592000)](https://github.com/szdc/tiktok-api/stargazers) | [![badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/szdc/tiktok-api/commits&label=Last%20Commit&query=$[0].commit.committer.date&color=important)](https://github.com/szdc/tiktok-api)
+[Tinder](https://github.com/fbessez/Tinder) | Tinder API | Python | [![badge](https://img.shields.io/github/stars/fbessez/Tinder.svg?style=social&label=Star&maxAge=2592000)](https://github.com/fbessez/Tinder/stargazers) | [![badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/fbessez/Tinder/commits&label=Last%20Commit&query=$[0].commit.committer.date&color=important)](https://github.com/fbessez/Tinder)
+[Tinder](https://github.com/alkawryk/tinderjs) | Tinder API | Javascript | [![badge](https://img.shields.io/github/stars/alkawryk/tinderjs.svg?style=social&label=Star&maxAge=2592000)](https://github.com/alkawryk/tinderjs/stargazers) | [![badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/alkawryk/tinderjs/commits&label=Last%20Commit&query=$[0].commit.committer.date&color=important)](https://github.com/alkawryk/tinderjs)
 
 ### Finance
 
@@ -59,31 +59,32 @@ https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/ahmdr
 
 *API* | *Description* | *Language* | *Stars* | *Last Commit*
 --- | --- | --- | --- | ---
-[COVID-19 Coronavirus](https://github.com/NovelCOVID/API) | API for current cases and more around covid | Javascript | Partial
-[Google Nest](https://github.com/gboudreau/nest-api) | Google's smart thermostat API | php | Full
+[COVID-19 Coronavirus](https://github.com/NovelCOVID/API) | API for current cases and more around covid | Javascript | [![badge](https://img.shields.io/github/stars/NovelCOVID/API.svg?style=social&label=Star&maxAge=2592000)](https://github.com/NovelCOVID/API/stargazers) | [![badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/NovelCOVID/API/commits&label=Last%20Commit&query=$[0].commit.committer.date&color=important)](https://github.com/NovelCOVID/API)
+[Google Nest](https://github.com/gboudreau/nest-api) | Google's smart thermostat API | php | [![badge](https://img.shields.io/github/stars/gboudreau/nest-api.svg?style=social&label=Star&maxAge=2592000)](https://github.com/gboudreau/nest-api/stargazers) | [![badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/gboudreau/nest-api/commits&label=Last%20Commit&query=$[0].commit.committer.date&color=important)](https://github.com/gboudreau/nest-api)
 
 ### Messaging 
 
 *API* | *Description* | *Language* | *Stars* | *Last Commit*
 --- | --- | --- | --- | ---
-[iMessage](https://github.com/wtfaremyinitials/osa-imessage) | Use iMessage via an API on your own computer | Javascript | Outdated
+[iMessage](https://github.com/wtfaremyinitials/osa-imessage) | Use iMessage via an API on your own computer | Javascript | [![badge](https://img.shields.io/github/stars/osa-imessage.svg?style=social&label=Star&maxAge=2592000)](https://github.com/osa-imessage/stargazers) | [![badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/osa-imessage/commits&label=Last%20Commit&query=$[0].commit.committer.date&color=important)](https://github.com/osa-imessage)
 
 ### Misc
 
 *API* | *Description* | *Language* | *Stars* | *Last Commit*
 --- | --- | --- | --- | ---
-[Tesla](https://github.com/timdorr/tesla-api) | Find out how to hack your Tesla | Ruby | Active
+[Tesla](https://github.com/timdorr/tesla-api) | Find out how to hack your Tesla | Ruby | [![badge](https://img.shields.io/github/stars/timdorr/tesla-api.svg?style=social&label=Star&maxAge=2592000)](https://github.com/timdorr/tesla-api/stargazers) | [![badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/timdorr/tesla-api/commits&label=Last%20Commit&query=$[0].commit.committer.date&color=important)](https://github.com/timdorr/tesla-api)
 
 ### Productivity 
 
 *API* | *Description* | *Language* | *Stars* | *Last Commit*
 --- | --- | --- | --- | ---
-[Notion](https://github.com/jamalex/notion-py) | Python based notion API | Python | Full
-[Notion](https://github.com/kjk/notionapi) | Go based notion API | Go | Full
-[Quora](https://github.com/csu/quora-api) | Quora based api | Python | Inactive
+[Notion](https://github.com/jamalex/notion-py) | Python based notion API | Python | [![badge](https://img.shields.io/github/stars/jamalex/notion-py.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jamalex/notion-py/stargazers) | [![badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/jamalex/notion-py/commits&label=Last%20Commit&query=$[0].commit.committer.date&color=important)](https://github.com/jamalex/notion-py)
+[Notion](https://github.com/kjk/notionapi) | Go based notion API | Go | [![badge](https://img.shields.io/github/stars/kjk/notionapi.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kjk/notionapi/stargazers) | [![badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/kjk/notionapi/commits&label=Last%20Commit&query=$[0].commit.committer.date&color=important)](https://github.com/kjk/notionapi)
+[Quora](https://github.com/csu/quora-api) | Quora based api | Python | [![badge](https://img.shields.io/github/stars/csu/quora-api.svg?style=social&label=Star&maxAge=2592000)](https://github.com/csu/quora-api/stargazers) | [![badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/csu/quora-api/commits&label=Last%20Commit&query=$[0].commit.committer.date&color=important)](https://github.com/csu/quora-api)
 
 ### Schools
 
 *API* | *Description* | *Language* | *Stars* | *Last Commit*
 --- | --- | --- | --- | ---
-[(UF) University of Florida](https://github.com/Rolstenhouse/uf_api) | Understanding UF's publicly accessible links | php | Outdated
+[(UF) University of Florida](https://github.com/Rolstenhouse/uf_api) | Understanding UF's publicly accessible links | php | [![badge](https://img.shields.io/github/stars/Rolstenhouse/uf_api.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Rolstenhouse/uf_api/stargazers) | [![badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/Rolstenhouse/uf_api/commits&label=Last%20Commit&query=$[0].commit.committer.date&color=important)](https://github.com/Rolstenhouse/uf_api)
+
