@@ -66,7 +66,7 @@ https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/ahmdr
 
 *API* | *Description* | *Language* | *Stars* | *Last Commit*
 --- | --- | --- | --- | ---
-[iMessage](https://github.com/wtfaremyinitials/osa-imessage) | Use iMessage via an API on your own computer | Javascript | [![badge](https://img.shields.io/github/stars/osa-imessage.svg?style=social&label=Star&maxAge=2592000)](https://github.com/osa-imessage/stargazers) | [![badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/osa-imessage/commits&label=Last%20Commit&query=$[0].commit.committer.date&color=important)](https://github.com/osa-imessage)
+[iMessage](https://github.com/wtfaremyinitials/osa-imessage) | Use iMessage via an API on your own computer | Javascript | [![badge](https://img.shields.io/github/stars/wtfaremyinitials/osa-imessage.svg?style=social&label=Star&maxAge=2592000)](https://github.com/wtfaremyinitials/osa-imessage/stargazers) | [![badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/wtfaremyinitials/osa-imessage/commits&label=Last%20Commit&query=$[0].commit.committer.date&color=important)](https://github.com/wtfaremyinitials/osa-imessage)
 
 ### Misc
 
