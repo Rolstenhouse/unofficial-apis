@@ -3,6 +3,23 @@ A collection of unofficial api libraries. Designed to inspire your next Friday n
 
 Interested in adding your own API library, submit a pull request
 
+NOTES: 
+Repo last updated (x days ago) 
+Look here https://developer.github.com/v3/repos/#get-a-repository
+
+https://api.github.com/repos/octocat/Hello-World
+updated_at field
+stargazers_count field 
+
+[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+
+# Insta
+https://img.shields.io/github/stars/ahmdrz/goinsta.svg?style=social&label=Star&maxAge=2592000
+
+https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
+
+https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/octocat/Hello-World/commits&label=Last%20Commit&query=$[0].commit.committer.date&color=important
+
 ## Index
 [Entertainment](#entertainment)
 
