@@ -35,6 +35,10 @@ https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/ahmdr
 
 [Schools](#schools)
 
+https://img.shields.io/github/stars/valish/mma-api.svg?style=social&label=Star&maxAge=2592000
+
+https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/valish/mma-api/commits&label=Last%20Commit&query=$[0].commit.committer.date&color=important
+
 ### Entertainment
 *API* | *Description* | *Language* | *Stars* | *Last Commit*
 --- | --- | --- | --- | ---
