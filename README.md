@@ -35,15 +35,11 @@ https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/ahmdr
 
 [Schools](#schools)
 
-[![badge](https://img.shields.io/github/stars/valish/mma-api.svg?style=social&label=Star&maxAge=2592000)](https://google.com)
-
-[![badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/valish/mma-api/commits&label=Last%20Commit&query=$[0].commit.committer.date&color=important)](https://google.com)
-
 ### Entertainment
 *API* | *Description* | *Language* | *Stars* | *Last Commit*
 --- | --- | --- | --- | ---
 [Instagram](https://github.com/ahmdrz/goinsta) | Instagram API | Go | https://img.shields.io/github/stars/ahmdrz/goinsta.svg?style=social&label=Star&maxAge=2592000 | https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/ahmdrz/goinsta/commits&label=Last%20Commit&query=$[0].commit.committer.date&color=important
-[MMA](https://github.com/valish/mma-api) | Mixed Martial Arts/UFC api | Javascript | [badge]: https://img.shields.io/github/stars/valish/mma-api.svg?style=social&label=Star&maxAge=2592000 | [badge]: https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/valish/mma-api/commits&label=Last%20Commit&query=$[0].commit.committer.date&color=important
+[MMA](https://github.com/valish/mma-api) | Mixed Martial Arts/UFC api | Javascript | [![badge](https://img.shields.io/github/stars/valish/mma-api.svg?style=social&label=Star&maxAge=2592000)](https://github.com/valish/mma-api/stargazers) | [badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/valish/mma-api/commits&label=Last%20Commit&query=$[0].commit.committer.date&color=important)
 [Nintendo Switch](https://github.com/ZekeSnider/NintendoSwitchRESTAPI) | REST API for nintendo switch | Documentation | Partial 
 [PokeApi](https://github.com/PokeAPI/pokeapi) | Pokemon API | Hosted | Full
 [Pokemon Go](https://github.com/pogodevorg/pgoapi) | Pokemon Go API | python | Dead
