@@ -1,0 +1,1 @@
+https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/ahmdrz/goinsta/commits&label=Last%20Commit&query=$[0].commit.committer.date&color=important
