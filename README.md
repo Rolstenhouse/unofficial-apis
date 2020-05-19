@@ -9,6 +9,8 @@ Interested in adding your own API library, submit a pull request
 
 [Finance](#finance)
 
+[Food](#food)
+
 [Health](#health)
 
 [Messaging](#messaging)
@@ -38,6 +40,12 @@ Interested in adding your own API library, submit a pull request
 [Coinbase](https://github.com/danpaquin/coinbasepro-python) | Trade crypto | Python | [![badge](https://img.shields.io/github/stars/danpaquin/coinbasepro-python.svg?style=social&label=Star&maxAge=2592000)](https://github.com/danpaquin/coinbasepro-python/stargazers) | [![badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/danpaquin/coinbasepro-python/commits&label=Last%20Commit&query=$[0].commit.committer.date&color=important)](https://github.com/danpaquin/coinbasepro-python) 
 [Robinhood](https://github.com/robinhood-unofficial/pyrh) | Access and trade using Robinhood account info | Python | [![badge](https://img.shields.io/github/stars/robinhood-unofficial/pyrh.svg?style=social&label=Star&maxAge=2592000)](https://github.com/robinhood-unofficial/pyrh/stargazers) | [![badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/robinhood-unofficial/pyrh/commits&label=Last%20Commit&query=$[0].commit.committer.date&color=important)](https://github.com/robinhood-unofficial/pyrh)
 [Tastyworks](https://github.com/boyan-soubachov/tastyworks_api) | Tastyworks (an options trader) | Python | [![badge](https://img.shields.io/github/stars/boyan-soubachov/tastyworks_api.svg?style=social&label=Star&maxAge=2592000)](https://github.com/boyan-soubachov/tastyworks_api/stargazers) | [![badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/boyan-soubachov/tastyworks_api/commits&label=Last%20Commit&query=$[0].commit.committer.date&color=important)](https://github.com/boyan-soubachov/tastyworks_api)
+
+### Food
+
+*API* | *Description* | *Language* | *Stars* | *Last Commit*
+--- | --- | --- | --- | ---
+[Jimmy John's](https://github.com/mmahler2/JimmyJohns) | Order food from Jimmy John's | Javascript | [![badge](https://img.shields.io/github/stars/mmahler2/JimmyJohns.svg?style=social&label=Star&maxAge=2592000)](https://github.com/mmahler2/JimmyJohns/stargazers) | [![badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/mmahler2/JimmyJohns/commits&label=Last%20Commit&query=$[0].commit.committer.date&color=important)](https://github.com/mmahler2/JimmyJohns) 
 
 ### Health
 
