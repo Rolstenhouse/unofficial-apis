@@ -1,7 +1,7 @@
 # Unofficial APIs
 A collection of unofficial api libraries. Designed to inspire your next Friday night hack. Use at your own discretion. 
 
-Interested in adding your own API library, submit a pull request
+Interested in adding your own API library, submit a pull request. Instructions can be found in `Contributing.md`
 
 
 ## Index
