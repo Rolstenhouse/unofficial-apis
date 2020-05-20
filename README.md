@@ -25,6 +25,8 @@ Interested in adding your own API library, submit a pull request. Instructions c
 
 [Schools](#schools)
 
+[Sports](#sports)
+
 ### Entertainment
 *API* | *Description* | *Language* | *Stars* | *Last Commit*
 --- | --- | --- | --- | ---
@@ -87,3 +89,8 @@ Interested in adding your own API library, submit a pull request. Instructions c
 --- | --- | --- | --- | ---
 [(UF) University of Florida](https://github.com/Rolstenhouse/uf_api) | Understanding UF's publicly accessible links | php | [![badge](https://img.shields.io/github/stars/Rolstenhouse/uf_api.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Rolstenhouse/uf_api/stargazers) | [![badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/Rolstenhouse/uf_api/commits&label=Last%20Commit&query=$[0].commit.committer.date&color=important)](https://github.com/Rolstenhouse/uf_api)
 
+
+### Sports
+*API* | *Description* | *Language* | *Stars* | *Last Commit*
+--- | --- | --- | --- | ---
+[NHL API Documentation](https://gitlab.com/dword4/nhlapi) | Documenting the publicly accessible portions of the NHL API | English | - | - 
