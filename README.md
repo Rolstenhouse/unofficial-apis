@@ -71,8 +71,8 @@ Interested in adding your own API library, submit a pull request. Instructions c
 
 *API* | *Description* | *Language* | *Stars* | *Last Commit*
 --- | --- | --- | --- | ---
-[Tesla](https://github.com/timdorr/tesla-api) | Find out how to hack your Tesla | Ruby | [![badge](https://img.shields.io/github/stars/timdorr/tesla-api.svg?style=social&label=Star&maxAge=2592000)](https://github.com/timdorr/tesla-api/stargazers) | [![badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/timdorr/tesla-api/commits&label=Last%20Commit&query=$[0].commit.committer.date&color=important)](https://github.com/timdorr/tesla-api)
 [1Password](https://github.com/lettdigital/onepassword-api) | Self hosted 1Password API | Python | [![badge](https://img.shields.io/github/stars/lettdigital/onepassword-api.svg?style=social&label=Star&maxAge=2592000)](https://github.com/lettdigital/onepassword-api/stargazers) | [![badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/lettdigital/onepassword-api/commits&label=Last%20Commit&query=$[0].commit.committer.date&color=important)](https://github.com/lettdigital/onepassword-api)
+[Tesla](https://github.com/timdorr/tesla-api) | Find out how to hack your Tesla | Ruby | [![badge](https://img.shields.io/github/stars/timdorr/tesla-api.svg?style=social&label=Star&maxAge=2592000)](https://github.com/timdorr/tesla-api/stargazers) | [![badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/timdorr/tesla-api/commits&label=Last%20Commit&query=$[0].commit.committer.date&color=important)](https://github.com/timdorr/tesla-api)
 
 ### Productivity 
 
