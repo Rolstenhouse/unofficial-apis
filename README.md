@@ -3,6 +3,8 @@
 # Unofficial APIs
 A collection of unofficial api libraries. Designed to inspire your next Friday night hack. Use at your own discretion. 
 
+If you're interested in being notified of newly added unofficial APIs and other featured projects [sign up here](https://forms.gle/e8nCivpTBNftNtgGA)
+
 Interested in adding your own API library, submit a pull request. Instructions can be found in `Contributing.md`
 
 
