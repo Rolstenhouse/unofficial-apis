@@ -53,6 +53,9 @@ Interested in adding your own API library, submit a pull request. Instructions c
 --- | --- | --- | --- | ---
 [COVID-19 Coronavirus](https://github.com/NovelCOVID/API) | API for current cases and more around covid | Javascript | [![badge](https://img.shields.io/github/stars/NovelCOVID/API.svg?style=social&label=Star&maxAge=2592000)](https://github.com/NovelCOVID/API/stargazers) | [![badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/NovelCOVID/API/commits&label=Last%20Commit&query=$[0].commit.committer.date&color=important)](https://github.com/NovelCOVID/API)
 [Google Nest](https://github.com/gboudreau/nest-api) | Google's smart thermostat API | php | [![badge](https://img.shields.io/github/stars/gboudreau/nest-api.svg?style=social&label=Star&maxAge=2592000)](https://github.com/gboudreau/nest-api/stargazers) | [![badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/gboudreau/nest-api/commits&label=Last%20Commit&query=$[0].commit.committer.date&color=important)](https://github.com/gboudreau/nest-api)
+[Peloton](https://github.com/geudrik/peloton-client-library) | Peloton workout and health stats | Python | [![badge](https://img.shields.io/github/stars/geudrik/peloton-client-library.svg?style=social&label=Star&maxAge=2592000)](https://github.com/geudrik/peloton-client-library/stargazers) | [![badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/geudrik/peloton-client-library/commits&label=Last%20Commit&query=$[0].commit.committer.date&color=important)](https://github.com/geudrik/peloton-client-library)
+
+
 
 ### Messaging 
 
