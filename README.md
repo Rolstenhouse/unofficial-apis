@@ -1,3 +1,5 @@
+### EDIT: If you're here from the HN post, welcome! I think the last commit badge is being hugged to death right now so if it doesn't display properly just give it some time. 
+
 # Unofficial APIs
 A collection of unofficial api libraries. Designed to inspire your next Friday night hack. Use at your own discretion. 
 
