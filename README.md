@@ -93,4 +93,4 @@ Interested in adding your own API library, submit a pull request. Instructions c
 ### Sports
 *API* | *Description* | *Language* | *Stars* | *Last Commit*
 --- | --- | --- | --- | ---
-[NHL API Documentation](https://gitlab.com/dword4/nhlapi) | Documenting the publicly accessible portions of the NHL API | English | - | - 
+[NHL API Documentation](https://gitlab.com/dword4/nhlapi) | Documenting the publicly accessible portions of the NHL API | English | [![badge](https://img.shields.io/badge/dynamic/json?url=https://gitlab.com/api/v4/projects/6582969&label=Stars&query=star_count&color=important&style=social)](https://gitlab.com/dword4/nhlapi) | [![badge](https://img.shields.io/badge/dynamic/json?url=https://gitlab.com/api/v4/projects/6582969&label=Last%20Activity&query=last_activity_at&color=important)](https://gitlab.com/dword4/nhlapi)
