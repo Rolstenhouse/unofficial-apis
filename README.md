@@ -51,6 +51,8 @@ Interested in adding your own API library, submit a pull request. Instructions c
 
 *API* | *Description* | *Language* | *Stars* | *Last Commit*
 --- | --- | --- | --- | ---
+[Dominos](https://github.com/RIAEvangelist/node-dominos-pizza-api) | Order food from Dominos | Javascript | [![badge](https://img.shields.io/github/stars/RIAEvangelist/node-dominos-pizza-api.svg?style=social&label=Star&maxAge=2592000)](https://github.com/RIAEvangelist/node-dominos-pizza-api/stargazers) | [![badge](https://img.shields.io/github/last-commit/RIAEvangelist/node-dominos-pizza-api.svg)](https://github.com/RIAEvangelist/node-dominos-pizza-api) 
+[Dominos](https://github.com/tomasbasham/dominos) | Order food from Dominos | Python | [![badge](https://img.shields.io/github/stars/tomasbasham/dominos.svg?style=social&label=Star&maxAge=2592000)](https://github.com/tomasbasham/dominos/stargazers) | [![badge](https://img.shields.io/github/last-commit/tomasbasham/dominos.svg)](https://github.com/tomasbasham/dominos) 
 [Jimmy John's](https://github.com/mmahler2/JimmyJohns) | Order food from Jimmy John's | Javascript | [![badge](https://img.shields.io/github/stars/mmahler2/JimmyJohns.svg?style=social&label=Star&maxAge=2592000)](https://github.com/mmahler2/JimmyJohns/stargazers) | [![badge](https://img.shields.io/github/last-commit/mmahler2/JimmyJohns.svg)](https://github.com/mmahler2/JimmyJohns) 
 
 ### Health
