@@ -77,6 +77,7 @@ Interested in adding your own API library, submit a pull request. Instructions c
 --- | --- | --- | --- | ---
 [1Password](https://github.com/lettdigital/onepassword-api) | Self hosted 1Password API | Python | [![badge](https://img.shields.io/github/stars/lettdigital/onepassword-api.svg?style=social&label=Star&maxAge=2592000)](https://github.com/lettdigital/onepassword-api/stargazers) | [![badge](https://img.shields.io/github/last-commit/lettdigital/onepassword-api.svg)](https://github.com/lettdigital/onepassword-api)
 [Tesla](https://github.com/timdorr/tesla-api) | Find out how to hack your Tesla | Ruby | [![badge](https://img.shields.io/github/stars/timdorr/tesla-api.svg?style=social&label=Star&maxAge=2592000)](https://github.com/timdorr/tesla-api/stargazers) | [![badge](https://img.shields.io/github/last-commit/timdorr/tesla-api.svg)](https://github.com/timdorr/tesla-api)
+[Wiktionary](https://github.com/Suyash458/WiktionaryParser) | A Python Wiktionary Parser | Python | [![badge](https://img.shields.io/github/stars/Suyash458/WiktionaryParser.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Suyash458/WiktionaryParser) | [![badge](https://img.shields.io/github/last-commit/Suyash458/WiktionaryParser.svg)](https://github.com/Suyash458/WiktionaryParser)
 
 ### Productivity 
 
