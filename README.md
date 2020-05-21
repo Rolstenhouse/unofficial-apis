@@ -77,6 +77,7 @@ Interested in adding your own API library, submit a pull request. Instructions c
 *API* | *Description* | *Language* | *Stars* | *Last Commit*
 --- | --- | --- | --- | ---
 [1Password](https://github.com/lettdigital/onepassword-api) | Self hosted 1Password API | Python | [![badge](https://img.shields.io/github/stars/lettdigital/onepassword-api.svg?style=social&label=Star&maxAge=2592000)](https://github.com/lettdigital/onepassword-api/stargazers) | [![badge](https://img.shields.io/github/last-commit/lettdigital/onepassword-api.svg)](https://github.com/lettdigital/onepassword-api)
+[Lego](https://github.com/rolledback/LegoSharp) | C# library for working with various Lego services | C# | [![badge](https://img.shields.io/github/stars/rolledback/LegoSharp.svg?style=social&label=Star&maxAge=2592000)](https://github.com/rolledback/LegoSharp/stargazers) | [![badge](https://img.shields.io/github/last-commit/rolledback/LegoSharp)](https://github.com/rolledback/LegoSharp)
 [Tesla](https://github.com/timdorr/tesla-api) | Find out how to hack your Tesla | Ruby | [![badge](https://img.shields.io/github/stars/timdorr/tesla-api.svg?style=social&label=Star&maxAge=2592000)](https://github.com/timdorr/tesla-api/stargazers) | [![badge](https://img.shields.io/github/last-commit/timdorr/tesla-api.svg)](https://github.com/timdorr/tesla-api)
 
 ### Productivity 
