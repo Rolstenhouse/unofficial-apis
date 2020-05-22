@@ -41,6 +41,7 @@ Interested in adding your own API library, submit a pull request. Instructions c
 [Tik-Tok](https://github.com/szdc/tiktok-api) | Tik-tok API | JavaScript | [![badge](https://img.shields.io/github/stars/szdc/tiktok-api.svg?style=social&label=Star&maxAge=2592000)](https://github.com/szdc/tiktok-api/stargazers) | [![badge](https://img.shields.io/github/last-commit/szdc/tiktok-api.svg)](https://github.com/szdc/tiktok-api)
 [Tinder](https://github.com/fbessez/Tinder) | Tinder API | Python | [![badge](https://img.shields.io/github/stars/fbessez/Tinder.svg?style=social&label=Star&maxAge=2592000)](https://github.com/fbessez/Tinder/stargazers) | [![badge](https://img.shields.io/github/last-commit/fbessez/Tinder.svg)](https://github.com/fbessez/Tinder)
 [Tinder](https://github.com/tinderjs/tinderjs) | Tinder API | JavaScript | [![badge](https://img.shields.io/github/stars/tinderjs/tinderjs.svg?style=social&label=Star&maxAge=2592000)](https://github.com/tinderjs/tinderjs/stargazers) | [![badge](https://img.shields.io/github/last-commit/tinderjs/tinderjs.svg)](https://github.com/tinderjs/tinderjs)
+[Wikipedia](https://github.com/fastily/jwiki) | Wikipedia API | Java | [![badge](https://img.shields.io/github/stars/fastily/jwiki.svg?style=social&label=Star&maxAge=2592000)](https://github.com/fastily/jwiki/stargazers) | [![badge](https://img.shields.io/github/last-commit/fastily/jwiki.svg)](https://github.com/fastily/jwiki)
 
 ### Finance
 
