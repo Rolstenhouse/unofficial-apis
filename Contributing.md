@@ -1,6 +1,6 @@
 # PR Format
 
-To make a PR, please replace XXX with `<author>/<repo>`
+To add a new entry, please replace XXX below with `<author>/<repo>`. Then alphabetize appropriately.
 
 Row
 
