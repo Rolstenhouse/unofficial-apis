@@ -83,6 +83,7 @@ Interested in adding your own API library, submit a pull request. Instructions c
 
 *API* | *Description* | *Language* | *Stars* | *Last Commit*
 --- | --- | --- | --- | ---
+[Discord](https://github.com/discordjs/discord.js) | An unofficial nodejs client for the discord API | JavaScript | [![badge](https://img.shields.io/github/stars/discordjs/discord.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/discordjs/discord.js/stargazers) | [![badge](https://img.shields.io/github/last-commit/discordjs/discord.js)](https://github.com/discordjs/discord.js)
 [iMessage](https://github.com/wtfaremyinitials/osa-imessage) | Use iMessage via an API on your own computer | JavaScript | [![badge](https://img.shields.io/github/stars/wtfaremyinitials/osa-imessage.svg?style=social&label=Star&maxAge=2592000)](https://github.com/wtfaremyinitials/osa-imessage/stargazers) | [![badge](https://img.shields.io/github/last-commit/wtfaremyinitials/osa-imessage.svg)](https://github.com/wtfaremyinitials/osa-imessage)
 
 ### Misc
