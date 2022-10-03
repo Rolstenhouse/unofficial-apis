@@ -44,6 +44,8 @@ Interested in adding your own API library, submit a pull request. Instructions c
 [Tinder](https://github.com/tinderjs/tinderjs) | Tinder API | JavaScript | [![badge](https://img.shields.io/github/stars/tinderjs/tinderjs.svg?style=social&label=Star&maxAge=2592000)](https://github.com/tinderjs/tinderjs/stargazers) | [![badge](https://img.shields.io/github/last-commit/tinderjs/tinderjs.svg)](https://github.com/tinderjs/tinderjs)
 [Tinder](https://github.com/jzarca01/node-tinder) | Tinder API | JavaScript | [![badge](https://img.shields.io/github/stars/jzarca01/node-tinder.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jzarca01/node-tinder/stargazers) | [![badge](https://img.shields.io/github/last-commit/jzarca01/node-tinder.svg)](https://github.com/jzarca01/node-tinder)
 [Wikipedia](https://github.com/fastily/jwiki) | Wikipedia API | Java | [![badge](https://img.shields.io/github/stars/fastily/jwiki.svg?style=social&label=Star&maxAge=2592000)](https://github.com/fastily/jwiki/stargazers) | [![badge](https://img.shields.io/github/last-commit/fastily/jwiki.svg)](https://github.com/fastily/jwiki)
+[HLTV](https://github.com/dchoruzy/hltv-data) | HLTV API | Python | [![badge](https://img.shields.io/github/stars/dchoruzy/hltv-data.svg?style=social&label=Star&maxAge=2592000)](https://github.com/dchoruzy/hltv-data/stargazers) | [![badge](https://img.shields.io/github/last-commit/dchoruzy/hltv-data.svg)](https://github.com/dchoruzy/hltv-data)
+
 
 ### Finance
 
