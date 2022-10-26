@@ -96,7 +96,7 @@ Interested in adding your own API library, submit a pull request. Instructions c
 [Quick-Quiz-Api](https://github.com/prkhrv/Quick-Quiz-API) | API for Latest Trivia | JavaScript | [![badge](https://img.shields.io/github/stars/prkhrv/Quick-Quiz-API.svg?style=social&label=Star&maxAge=2592000)](https://github.com/prkhrv/Quick-Quiz-API/stargazers) | [![badge](https://img.shields.io/github/last-commit/prkhrv/Quick-Quiz-API)](https://github.com/prkhrv/Quick-Quiz-API)
 [Seedr](https://github.com/theabbie/seedr-api) | API for seedr.cc | JavaScript | [![badge](https://img.shields.io/github/stars/theabbie/seedr-api.svg?style=social&label=Star&maxAge=2592000)](https://github.com/theabbie/seedr-api/stargazers) | [![badge](https://img.shields.io/github/last-commit/theabbie/seedr-api.svg)](https://github.com/theabbie/seedr-api)
 [Wiktionary](https://github.com/Suyash458/WiktionaryParser) | A Python Wiktionary Parser | Python | [![badge](https://img.shields.io/github/stars/Suyash458/WiktionaryParser.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Suyash458/WiktionaryParser) | [![badge](https://img.shields.io/github/last-commit/Suyash458/WiktionaryParser.svg)](https://github.com/Suyash458/WiktionaryParser)
-
+[GRDF](https://github.com/maelgangloff/grdf-api) | API client of the French gas distribution network | TypeScript | [![badge](https://img.shields.io/github/stars/maelgangloff/grdf-api.svg?style=social&label=Star&maxAge=2592000)](https://github.com/maelgangloff/grdf-api/stargazers) | [![badge](https://img.shields.io/github/last-commit/maelgangloff/grdf-api)](https://github.com/maelgangloff/grdf-api)
 
 
 ### Productivity 
