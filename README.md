@@ -113,6 +113,7 @@ Interested in adding your own API library, submit a pull request. Instructions c
 --- | --- | --- | --- | ---
 [(UF) University of Florida](https://github.com/Rolstenhouse/uf_api) | Understanding UF's publicly accessible links | php | [![badge](https://img.shields.io/github/stars/Rolstenhouse/uf_api.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Rolstenhouse/uf_api/stargazers) | [![badge](https://img.shields.io/github/last-commit/Rolstenhouse/uf_api.svg)](https://github.com/Rolstenhouse/uf_api)
 [University of Maryland](https://github.com/umdio/umdio) | An open API for the University of Maryland | Ruby | [![badge](https://img.shields.io/github/stars/umdio/umdio.svg?style=social&label=Star&maxAge=2592000)](https://github.com/umdio/umdio/stargazers) | [![badge](https://img.shields.io/github/last-commit/umdio/umdio)](https://github.com/umdio/umdio)
+[Skolengo EMS (Kdecole)](https://github.com/maelgangloff/kdecole-api) | Skolengo EMS Mobile App API Documentation and Client | TypeScript | [![badge](https://img.shields.io/github/stars/maelgangloff/kdecole-api.svg?style=social&label=Star&maxAge=2592000)](https://github.com/maelgangloff/kdecole-api/stargazers) | [![badge](https://img.shields.io/github/last-commit/maelgangloff/kdecole-api)](https://github.com/maelgangloff/kdecole-api)
 
 ### Sports
 
